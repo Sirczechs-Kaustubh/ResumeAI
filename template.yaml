@@ -1,0 +1,65 @@
+personal_info:
+  first_name: "Kaustubh"
+  last_name: "M"
+  mobile: "+44 7990156488"
+  email: "kaushi00rg@gmail.com"
+  homepage: "www.linkedin.com/in/kaushi00"
+
+education:
+  - degree: "MSc in Artificial Intelligence"
+    institution: "Queen Mary University of London"
+    location: "London, UK"
+    years: "2022-2024"
+
+  - degree: "Bachelor of Engineering"
+    institution: "Sir M Visvesvaraya Institute of Technology"
+    location: "Bangalore, India"
+    grade: "First Class Distinction"
+    years: "2018-2022"
+
+experience:
+  - role: "Product Developer/Software Developer"
+    company: "Petbiotech"
+    location: "Bangalore, India"
+    years: "2022-2023"
+    details:
+      - "Designed and implemented a real-time data monitoring system, enhancing decision-making and operational efficiency by 20%."
+      - "Developed a company portal integrating contract management functionalities, boosting operational efficiency by 15% and reducing processing time by 30%."
+      - "Utilized SQL and Python for database management and backend services, achieving a system precision of 99% and enhancing efficiency by 25%."
+
+  - role: "Research & Data Analyst"
+    company: "Utpal Tatu Lab, Indian Institute of Science"
+    location: "Bangalore, India"
+    years: "2022-2023"
+    details:
+      - "Led epidemiological data analysis on Lumpy Skin Disease using R and Python, improving response time by 30%."
+      - "Developed predictive models and algorithms for early identification of disease patterns, increasing the accuracy of risk assessments by 25%."
+
+  - role: "Digital Marketing & Data Scraping Intern"
+    company: "Falcon Logic"
+    location: "Bangalore, India"
+    years: "2021--2022"
+    details:
+      - "Spearheaded data-driven strategies, boosting campaign targeting effectiveness by 20%."
+      - "Programmed solutions for data analytics tasks, leading to a 15% increase in operational efficiency."
+
+leadership_experience:
+  - role: "Course Representative"
+    institution: "Queen Mary University of London"
+    location: "London, UK"
+    years: "2023-2024"
+    details:
+      - "Enhanced communication between students and faculty, boosting student satisfaction by 15%."
+      - "Collaborated with the Director of Education to refine the curriculum, increasing course completion rates by 10%."
+      - "Authored reports on student feedback which influenced curriculum adjustments, increasing student engagement by 20%."
+
+skills:
+  programming_languages: "Python (Numpy, PyTorch, Sklearn, Seaborn, SQLAlchemy), R, SQL, Java"
+  technologies: "Machine Learning, Data Analytics, AWS, Tableau, Flask, FastAPI, Streamlit"
+  soft_skills: "Problem Solving, Strategic Communication, Leadership, Project Management, Team Collaboration"
+
+certifications:
+  - year: "2023"
+    title: "Google’s Professional Certification in Data Analytics"
+  - year: "2021"
+    title: "University of Michigan, Getting Started with Python"
